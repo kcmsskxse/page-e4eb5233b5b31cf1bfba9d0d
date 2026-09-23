@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5f3b498c35692d3bda5e5fee",
+  "owner": "kcmsskxse",
+  "repo": "page-e4eb5233b5b31cf1bfba9d0d",
+  "title": "Speed",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e4eb5233b5b31cf1bfba9d0d",
+      "a": "Speed",
+      "b": "2027最新官网",
+      "entity": "Speed",
+      "brand": "Speed",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cd552ea6bed706bf5a802b08d232a61d0b4e0b43ea70184fbb16a7256d7dda1e",
+      "content": {
+        "primary_entity": "Speed",
+        "keyword1": "Speed",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按手机、电脑、路由器三类设备选择客户端，订阅配置方式各有对应文档。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑选合适套餐，完成订阅配置后即可使用。",
+          "AI_CLOSING_TITLE": "选好套餐，开始加速",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，基础版每月15元提供100GB流量支持3台设备，旗舰版每月35元提供300GB流量支持5台设备，团队版每月85元提供1000GB流量支持20台设备，按年付分别仅需150元、350元和850元，可依使用场景选择。",
+          "AI_FEATURES_INTRO": "从套餐规格、设备数量与订阅周期三个角度快速判断适合自己的选项。",
+          "AI_FEATURES_TITLE": "选择前先看这三点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，旗舰版300GB，团队版1000GB，依使用强度匹配。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_2": "基础版3台，旗舰版5台，团队版20台，多设备家庭或团队按需选择。",
+          "AI_FEATURE_TITLE_2": "看设备数量",
+          "AI_FEATURE_TEXT_3": "三档均支持按年付，年付价格分别为150元、350元和850元。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "按三步完成从选择到使用的流程。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "Speed 海外加速器提供基础版、旗舰版与团队版三档套餐，覆盖不同设备数量与月流量需求，可用于流媒体解锁和游戏专线加速，按年付更划算。",
+          "AI_HERO_SUBTITLE": "多设备多场景的加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐，覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付价格更省，周期自由",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与年付价格，按实际需求选择。",
+          "AI_PLANS_TITLE": "套餐对比一目了然",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "确认所用设备类型与同时在线数量，查看各客户端对应的适配要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照所使用客户端的配置文档，导入订阅信息并完成连接设置。",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "Speed 加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Speed 套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "支持从基础版升级到旗舰版或团队版，升级后按剩余周期折算差价，补足费用即可生效。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量可能导致连接失败，建议按需选择版本。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付仅需 10 个月价格即可使用 12 个月，适合长期稳定使用；月付灵活性更高，适合短期体验。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线针对游戏加速与低延迟需求优化，适合对稳定性和响应速度要求较高的用户。",
+          "AI_FAQ_QUESTION_5": "订阅导入失败怎么办？",
+          "AI_FAQ_ANSWER_5": "请检查订阅链接是否完整、客户端版本是否匹配，并参照对应客户端文档重新导入；仍无法解决可提交工单。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huiyeproxy.com",
+    "host": "huiyeproxy.com"
+  },
+  "file_hashes": {
+    "index.html": "61853a2ae35cd0918d16b34d2e4abf498d381d21ad3df6c8176bbcd49b76d8ab",
+    "sitemap.xml": "196b835cfc18b6f2f3adf1dea4b687eb00868a10455f4fe8052f1ea0744d9cf3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c8a75a15e34123202f6852c61a672452efd1dbc15b68ca4c57a9246ca35a2071",
+    "robots.txt": "bc2ab464701fbe84589ca88c60d209aa398c3e932e4778eb1b7c01a0ed4ce7dd",
+    "40585b8ce0436a280beef910527fefd2.txt": "738a0f4591808549a245aa52fa15e42de83f2b707b7f8dca8ccee1d3f7e397d4"
+  },
+  "revision": "4363b4a82b05b15c48cb25117cf04daa574ae392061588eaa5152bf459d9f6d8"
+}
